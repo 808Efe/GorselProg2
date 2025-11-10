@@ -1,0 +1,17 @@
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\hafta2.Form1.resources
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\hafta2.csproj.GenerateResource.cache
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\hafta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\hafta2.AssemblyInfoInputs.cache
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\hafta2.AssemblyInfo.cs
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\hafta2.csproj.CoreCompileInputs.cache
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\hafta2.sourcelink.json
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\bin\Debug\net8.0-windows\hafta2.exe
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\bin\Debug\net8.0-windows\hafta2.deps.json
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\bin\Debug\net8.0-windows\hafta2.runtimeconfig.json
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\bin\Debug\net8.0-windows\hafta2.dll
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\bin\Debug\net8.0-windows\hafta2.pdb
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\hafta2.dll
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\refint\hafta2.dll
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\hafta2.pdb
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\hafta2.genruntimeconfig.cache
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\ref\hafta2.dll

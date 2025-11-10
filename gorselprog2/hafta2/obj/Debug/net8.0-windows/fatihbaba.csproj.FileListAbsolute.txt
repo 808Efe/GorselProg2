@@ -1,0 +1,16 @@
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\fatihbaba.Form1.resources
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\fatihbaba.csproj.GenerateResource.cache
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\fatihbaba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\fatihbaba.AssemblyInfoInputs.cache
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\fatihbaba.AssemblyInfo.cs
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\fatihbaba.csproj.CoreCompileInputs.cache
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\bin\Debug\net8.0-windows\fatihbaba.exe
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\bin\Debug\net8.0-windows\fatihbaba.deps.json
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\bin\Debug\net8.0-windows\fatihbaba.runtimeconfig.json
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\bin\Debug\net8.0-windows\fatihbaba.dll
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\bin\Debug\net8.0-windows\fatihbaba.pdb
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\fatihbaba.dll
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\refint\fatihbaba.dll
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\fatihbaba.pdb
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\fatihbaba.genruntimeconfig.cache
+C:\Users\EFE\source\repos\fatihbaba\fatihbaba\obj\Debug\net8.0-windows\ref\fatihbaba.dll
